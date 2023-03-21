@@ -6,3 +6,5 @@ Aqui tenho meu último projeto realizado até hoje (21/03/2023), onde durante um
 Futuramente pretendo realizar mudanças à ele, mudando talvez até mesmo a temática da página principal do game para o Phasmophobia, junto da página da steam no "Play Now".
 
 Foi o meu contato com códigos mais intermediários de CSS3, onde eu já começo trazendo fontes diferentes e um novo visual, de certa forma "mais moderno" em comparação com o meu último.
+
+![Screenshot_3](https://user-images.githubusercontent.com/126638175/226617399-00470909-6e7d-4e87-8a75-2ebf64d2811e.png)
